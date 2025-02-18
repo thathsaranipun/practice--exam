@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PerformanceAppraisalSystem\\WebApplication1\\WebApplication1.csproj": {}
+    "F:\\practice--exam\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\PerformanceAppraisalSystem\\WebApplication1\\WebApplication1.csproj": {
+    "F:\\practice--exam\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PerformanceAppraisalSystem\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "F:\\practice--exam\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\PerformanceAppraisalSystem\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "F:\\practice--exam\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Aari\\.nuget\\packages\\",
-        "outputPath": "D:\\PerformanceAppraisalSystem\\WebApplication1\\obj\\",
+        "outputPath": "F:\\practice--exam\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aari\\AppData\\Roaming\\NuGet\\NuGet.Config"
